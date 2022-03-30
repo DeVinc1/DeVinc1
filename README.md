@@ -1,4 +1,4 @@
-###Olá, tudo certo?
+#Olá, tudo certo?
 Eu me chamo Marcos! Mas pode me chamar de DaVinci (que é meu apelido kkkkk)
 sou um estudante de Ciência da Computação e um entusiasta de programação
 Criei esse GitHub para dividir um pouco das minhas aventuras na programação (por isso DeVinci, de DaVinci + Dev)
