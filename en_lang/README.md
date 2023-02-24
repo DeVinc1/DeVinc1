@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Noto+Sans+Mono&size=15&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&height=20&lines=Hi!+My+name+is+Marcos%2C+.+Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Noto+Sans+Mono&size=15&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&height=20&lines=Hi!+My+name+is+Marcos%2C+welcome+to+my+GitHub!)](https://git.io/typing-svg)
