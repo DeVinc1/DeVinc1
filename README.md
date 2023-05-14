@@ -8,10 +8,12 @@ Sou um cara apaixonado por tecnologia e espero que vocês gostem do que vão enc
 Sintam-se em casa!<br>
 
 - 🚀 Atualmente eu estou estudando Ciência da Computação;
-- 📚 Estou focado em aprender e masterizar Lógica de Programação;
+- 📚 Estou focado em masterizar Java no momento;
 - 🤖 Sou um entusiasta de Inteligência Artificial;
 - 🪐 Adoro simulações computadorizadas (principalmente astronômicas);
-- 💻 Sei um pouco de Java, mas quero aprender o máximo de Lógica de Programação antes de me aprofundar.<br>
+- 💻 Sou um grande fã de game development;
+
+<br>
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
