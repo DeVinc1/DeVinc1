@@ -1,7 +1,7 @@
 ## 🌌 About Me
 [Voltar ao perfil/Return to profile](https://github.com/DeVinc1)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Noto+Sans+Mono&size=15&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&height=20&lines=Hi!+My+name+is+Marcos%2C+welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=15&pause=2500&color=31F3F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Marcos!+Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 Hello there! Welcome to my GitHub profile!<br> 
 Here you will find some of my work and projects!<br>
