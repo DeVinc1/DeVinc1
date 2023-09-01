@@ -1,7 +1,7 @@
 ## 🌌 Sobre Mim
 [Go to english\[EN\] profile description](https://github.com/DeVinc1/DeVinc1/tree/main/en_lang)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=15&pause=1000&color=31F3F7&vCenter=true&width=435&lines=Oi%2C+eu+sou+o+Marcos!+Seja+bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=15&pause=2500&color=31F3F7&center=true&vCenter=true&width=435&lines=Oi%2C+eu+sou+o+Marcos!+Seja+bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 
 Salve! Boas-vindas ao meu GitHub!<br> 
 Aqui você encontra um pouco do meu trabalho e dos meus projetos!<br>
